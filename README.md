@@ -1,9 +1,4 @@
-Logistics Delay & Bottleneck Analysis
-
-**Candidate:** Pandeti Mohan Sai
-**Position:** Data Analyst Intern
-
----
+# Logistics Delay & Bottleneck Analysis
 
 ### 1. Project Overview
 
